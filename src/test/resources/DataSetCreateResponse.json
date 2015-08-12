@@ -1,0 +1,17 @@
+{
+  "type":"dataSet",
+  "href":"http://dev.clearstorydatainc.com/v1/data_sets/f752f80d-e096-4521-8600-17829df13afa",
+  "id":"f752f80d-e096-4521-8600-17829df13afa",
+  "name":"my_csd_data_sink_troubleshooting-4",
+  "created":"2015-06-24T22:20:51.921+00:00",
+  "updated":"2015-06-24T22:21:01.215+00:00",
+  "tags":[
+
+  ],
+  "metadata":{
+    "ingestion":{
+      "metadataType":"string",
+      "value":"290df882-1ef0-43c8-9bcc-5aadf70194fb"
+    }
+  }
+}
